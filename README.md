@@ -1,7 +1,7 @@
 # FFT
 
 ![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/gabri-aero/astrosimcpp/blob/main/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/gabri-aero/fft/blob/main/LICENSE)
 
 > A header-only library that provides Fast Fourier Transform utilities.
 
