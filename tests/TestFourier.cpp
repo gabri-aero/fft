@@ -1,6 +1,6 @@
 #include <Eigen/Dense>
 #include <complex>
-#include "Fourier.hpp"
+#include <fft>
 #include <random>
 
 #include <gtest/gtest.h>

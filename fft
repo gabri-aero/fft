@@ -1,0 +1,6 @@
+#ifndef _FFT_MODULE_HPP_
+#define _FFT_MODULE_HPP_
+
+#include <include/Fourier.hpp>
+
+#endif // _FFT_MODULE_HPP_

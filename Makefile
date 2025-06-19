@@ -32,7 +32,7 @@ $(BUILD_DIR):
 
 # Test targets
 $(TEST_EXES): $(TEST_SOURCES) $(BUILD_DIR)
-	$(CXX) $(CXX_FLAGS) -I$(INCLUDE_DIR) -I$(GTEST_DIR) $< -o $@ $(GTEST_LIBS)
+	$(CXX) $(CXX_FLAGS) -I. -I$(GTEST_DIR) $< -o $@ $(GTEST_LIBS)
 
 # Clean build files
 clean:
